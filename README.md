@@ -1,4 +1,4 @@
-# horizon
+# Horizon
 Exploration of recommender systems to expand ones horizons
 
 
